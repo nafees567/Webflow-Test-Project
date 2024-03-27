@@ -1,2 +1,2 @@
-console.log("File is linked from GitHub!")
-alert("Link working!")
+console.log("1. File is linked from GitHub!");
+console.log("2. File is linked from GitHub!")
